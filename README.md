@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&weight=400&size=72&duration=0&pause=0&color=f97316&center=true&vCenter=true&repeat=false&width=400&height=100&lines=Surya" alt="Surya" />
+<img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&weight=400&size=64&duration=4000&pause=999999&color=f97316&center=true&vCenter=true&repeat=false&width=600&height=120&lines=Surya" alt="Surya" />
 
 <p style="color:#666666">Full-Stack AI Developer &nbsp;·&nbsp; AI Agent Systems</p>
 
