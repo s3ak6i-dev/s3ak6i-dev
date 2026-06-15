@@ -38,7 +38,7 @@ Currently deep in **AI agent systems** and **data infrastructure**. Open to full
 
 ---
 
-## Featured Project
+## Featured Projects
 
 <table>
 <tr>
@@ -55,13 +55,85 @@ The intelligence layer beneath every AI system. Scans, cleans, enriches, and con
 
 `FastAPI` `React` `TypeScript` `PostgreSQL` `Three.js`
 
-[Live App](https://datrix-test.vercel.app) · [API Docs](https://datrix-production-011a.up.railway.app/docs) · [Repo](https://github.com/s3ak6i-dev/Datrix)
+[Live App](https://datrix-test.vercel.app) · [Repo](https://github.com/s3ak6i-dev/Datrix)
+
+</td>
+<td width="50%" valign="top">
+
+### [Cortex](https://github.com/s3ak6i-dev/Cortex) — Multi-Agent Orchestration
+
+Visual canvas for orchestrating AI agents around a shared memory pool. Memory-first architecture — agents are workers, memory is the brain.
+
+- Drag-and-drop agent nodes with real-time WebSocket streaming
+- Conflict detection via cosine similarity + LLM contradiction check
+- D3 force graph memory dashboard
+- Canvas sharing with view/edit permissions
+
+`FastAPI` `React Flow` `Mem0` `Groq` `WebSockets` `PostgreSQL`
+
+[Repo](https://github.com/s3ak6i-dev/Cortex)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [GlassBox-fin](https://github.com/s3ak6i-dev/GlassBox-fin) — Financial AI Compliance
+
+Real-time compliance guardrails, audit trails, and decision lineage for financial LLM agents. Wraps any agent framework automatically.
+
+- 8 built-in rules mapped to GDPR, EU AI Act, MiFID II, Basel III
+- Hash-chain verification for tamper-evident audit trails
+- Human-in-the-loop approval for flagged decisions
+- SaaS control plane with live trace monitoring
+
+`FastAPI` `Python` `React` `D3` `PostgreSQL` `SSE`
+
+[Repo](https://github.com/s3ak6i-dev/GlassBox-fin)
+
+</td>
+<td width="50%" valign="top">
+
+### [Grain](https://github.com/s3ak6i-dev/Grain) — Product Feedback Intelligence
+
+Multi-tenant SaaS for product managers to organize and analyze user feedback. Surfaces underlying problems, not just feature requests.
+
+- Cluster signals into patterns automatically
+- Mandatory problem statements to enforce analytical thinking
+- Public share links for stakeholder access
+- First-class "Won't Solve" status for deliberate deprioritization
+
+`React 19` `TypeScript` `Supabase` `PostgreSQL` `Tailwind`
+
+[Live App](https://grain-neon.vercel.app) · [Repo](https://github.com/s3ak6i-dev/Grain)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [AgentRank](https://github.com/s3ak6i-dev/AgentRank) — Trust Layer for AI Agents
+
+The credit rating agency for the agentic economy. MCP tells you how agents connect — AgentRank tells you whether to trust them.
+
+- Automated trust tiers (bronze → platinum) based on reputation
+- Full-text search with filtering by category and trust tier
+- Review system with star ratings and community voting
+- Side-by-side agent comparison tool
+
+`Next.js 15` `TypeScript` `Drizzle` `Neon` `Auth.js` `Tailwind`
+
+[Repo](https://github.com/s3ak6i-dev/AgentRank)
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/s3ak6i-dev/Datrix">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=s3ak6i-dev&repo=Datrix&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=94a3b8" />
+</a>
+
+<a href="https://github.com/s3ak6i-dev/Cortex">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=s3ak6i-dev&repo=Cortex&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=94a3b8" />
 </a>
 
 </td>
