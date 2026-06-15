@@ -44,7 +44,7 @@ Currently deep in **AI agent systems** and **data infrastructure**. Open to full
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=600&height=48&lines=Datrix+%E2%80%94+AI+Data+Infrastructure" alt="Datrix — AI Data Infrastructure" />
+<a href="https://github.com/s3ak6i-dev/Datrix"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=600&height=48&lines=Datrix+%E2%80%94+AI+Data+Infrastructure" alt="Datrix — AI Data Infrastructure" /></a>
 
 The intelligence layer beneath every AI system. Scans, cleans, enriches, and continuously improves the data that drives ML models.
 
@@ -55,12 +55,10 @@ The intelligence layer beneath every AI system. Scans, cleans, enriches, and con
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=f0883e) ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=f0883e) ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=f0883e) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=f0883e) ![Three.js](https://img.shields.io/badge/Three.js-161b22?style=flat-square&logo=threedotjs&logoColor=f0883e)
 
-[Live App](https://datrix-test.vercel.app) · [Repo](https://github.com/s3ak6i-dev/Datrix)
-
 </td>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=600&height=48&lines=Cortex+%E2%80%94+Multi-Agent+Orchestration" alt="Cortex — Multi-Agent Orchestration" />
+<a href="https://github.com/s3ak6i-dev/Cortex"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=600&height=48&lines=Cortex+%E2%80%94+Multi-Agent+Orchestration" alt="Cortex — Multi-Agent Orchestration" /></a>
 
 Visual canvas for orchestrating AI agents around a shared memory pool. Memory-first architecture — agents are workers, memory is the brain.
 
@@ -71,14 +69,12 @@ Visual canvas for orchestrating AI agents around a shared memory pool. Memory-fi
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=f0883e) ![React Flow](https://img.shields.io/badge/React%20Flow-161b22?style=flat-square&logo=react&logoColor=f0883e) ![Mem0](https://img.shields.io/badge/Mem0-161b22?style=flat-square&logoColor=f0883e) ![Groq](https://img.shields.io/badge/Groq-161b22?style=flat-square&logoColor=f0883e) ![WebSockets](https://img.shields.io/badge/WebSockets-161b22?style=flat-square&logoColor=f0883e) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=f0883e)
 
-[Repo](https://github.com/s3ak6i-dev/Cortex)
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=600&height=48&lines=GlassBox-fin+%E2%80%94+Financial+AI+Compliance" alt="GlassBox-fin — Financial AI Compliance" />
+<a href="https://github.com/s3ak6i-dev/GlassBox-fin"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=600&height=48&lines=GlassBox-fin+%E2%80%94+Financial+AI+Compliance" alt="GlassBox-fin — Financial AI Compliance" /></a>
 
 Real-time compliance guardrails, audit trails, and decision lineage for financial LLM agents. Wraps any agent framework automatically.
 
@@ -89,12 +85,10 @@ Real-time compliance guardrails, audit trails, and decision lineage for financia
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=f0883e) ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=f0883e) ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=f0883e) ![D3](https://img.shields.io/badge/D3-161b22?style=flat-square&logo=d3dotjs&logoColor=f0883e) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=f0883e) ![SSE](https://img.shields.io/badge/SSE-161b22?style=flat-square&logoColor=f0883e)
 
-[Repo](https://github.com/s3ak6i-dev/GlassBox-fin)
-
 </td>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=600&height=48&lines=Grain+%E2%80%94+Product+Feedback+Intelligence" alt="Grain — Product Feedback Intelligence" />
+<a href="https://github.com/s3ak6i-dev/Grain"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=600&height=48&lines=Grain+%E2%80%94+Product+Feedback+Intelligence" alt="Grain — Product Feedback Intelligence" /></a>
 
 Multi-tenant SaaS for product managers to organize and analyze user feedback. Surfaces underlying problems, not just feature requests.
 
@@ -105,14 +99,12 @@ Multi-tenant SaaS for product managers to organize and analyze user feedback. Su
 
 ![React 19](https://img.shields.io/badge/React%2019-161b22?style=flat-square&logo=react&logoColor=f0883e) ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=f0883e) ![Supabase](https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=f0883e) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=f0883e) ![Tailwind](https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwindcss&logoColor=f0883e)
 
-[Live App](https://grain-neon.vercel.app) · [Repo](https://github.com/s3ak6i-dev/Grain)
-
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=800&height=48&lines=AgentRank+%E2%80%94+Trust+Layer+for+AI+Agents" alt="AgentRank — Trust Layer for AI Agents" />
+<a href="https://github.com/s3ak6i-dev/AgentRank"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=800&height=48&lines=AgentRank+%E2%80%94+Trust+Layer+for+AI+Agents" alt="AgentRank — Trust Layer for AI Agents" /></a>
 
 The credit rating agency for the agentic economy. MCP tells you how agents connect — AgentRank tells you whether to trust them.
 
@@ -122,8 +114,6 @@ The credit rating agency for the agentic economy. MCP tells you how agents conne
 - Side-by-side agent comparison tool
 
 ![Next.js 15](https://img.shields.io/badge/Next.js%2015-161b22?style=flat-square&logo=nextdotjs&logoColor=f0883e) ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=f0883e) ![Drizzle](https://img.shields.io/badge/Drizzle-161b22?style=flat-square&logoColor=f0883e) ![Neon](https://img.shields.io/badge/Neon-161b22?style=flat-square&logoColor=f0883e) ![Auth.js](https://img.shields.io/badge/Auth.js-161b22?style=flat-square&logoColor=f0883e) ![Tailwind](https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwindcss&logoColor=f0883e)
-
-[Repo](https://github.com/s3ak6i-dev/AgentRank)
 
 </td>
 </tr>
