@@ -44,7 +44,7 @@ Currently deep in **AI agent systems** and **data infrastructure**. Open to full
 <tr>
 <td width="50%" valign="top">
 
-<h3><font color="#f97316">Datrix</font> — AI Data Infrastructure</h3>
+<p><font color="#f97316"><strong>Datrix</strong></font> — AI Data Infrastructure</p>
 
 The intelligence layer beneath every AI system. Scans, cleans, enriches, and continuously improves the data that drives ML models.
 
@@ -60,7 +60,7 @@ The intelligence layer beneath every AI system. Scans, cleans, enriches, and con
 </td>
 <td width="50%" valign="top">
 
-<h3><font color="#f97316">Cortex</font> — Multi-Agent Orchestration</h3>
+<p><font color="#f97316"><strong>Cortex</strong></font> — Multi-Agent Orchestration</p>
 
 Visual canvas for orchestrating AI agents around a shared memory pool. Memory-first architecture — agents are workers, memory is the brain.
 
@@ -78,7 +78,7 @@ Visual canvas for orchestrating AI agents around a shared memory pool. Memory-fi
 <tr>
 <td width="50%" valign="top">
 
-<h3><font color="#f97316">GlassBox-fin</font> — Financial AI Compliance</h3>
+<p><font color="#f97316"><strong>GlassBox-fin</strong></font> — Financial AI Compliance</p>
 
 Real-time compliance guardrails, audit trails, and decision lineage for financial LLM agents. Wraps any agent framework automatically.
 
@@ -94,7 +94,7 @@ Real-time compliance guardrails, audit trails, and decision lineage for financia
 </td>
 <td width="50%" valign="top">
 
-<h3><font color="#f97316">Grain</font> — Product Feedback Intelligence</h3>
+<p><font color="#f97316"><strong>Grain</strong></font> — Product Feedback Intelligence</p>
 
 Multi-tenant SaaS for product managers to organize and analyze user feedback. Surfaces underlying problems, not just feature requests.
 
@@ -112,7 +112,7 @@ Multi-tenant SaaS for product managers to organize and analyze user feedback. Su
 <tr>
 <td colspan="2" valign="top">
 
-<h3><font color="#f97316">AgentRank</font> — Trust Layer for AI Agents</h3>
+<p><font color="#f97316"><strong>AgentRank</strong></font> — Trust Layer for AI Agents</p>
 
 The credit rating agency for the agentic economy. MCP tells you how agents connect — AgentRank tells you whether to trust them.
 
