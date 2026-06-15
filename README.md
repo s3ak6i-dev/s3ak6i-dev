@@ -30,6 +30,8 @@ Final year CS student shipping real products. I build full-stack AI applications
 
 Currently deep in **AI agent systems** and **data infrastructure**. Open to full-time roles and freelance projects building AI-powered applications.
 
+**Why s3ak6i?** Inspired by the a16z naming convention — first letter, number of letters in between, last letter. Same idea, different name. Unusual on purpose.
+
 ---
 
 ## Featured Project
