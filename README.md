@@ -127,15 +127,6 @@ The credit rating agency for the agentic economy. MCP tells you how agents conne
 
 </td>
 <td width="50%" valign="top">
-
-<a href="https://github.com/s3ak6i-dev/Datrix">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=s3ak6i-dev&repo=Datrix&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=94a3b8" />
-</a>
-
-<a href="https://github.com/s3ak6i-dev/Cortex">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=s3ak6i-dev&repo=Cortex&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=94a3b8" />
-</a>
-
 </td>
 </tr>
 </table>
