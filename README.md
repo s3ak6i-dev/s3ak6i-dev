@@ -1,22 +1,22 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a2744,100:63b3ff&height=200&section=header&text=Surya&fontSize=70&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Full-Stack%20AI%20Developer%20%C2%B7%20AI%20Agent%20Systems&descSize=18&descAlignY=85&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1000,100:f97316&height=200&section=header&text=Surya&fontSize=70&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Full-Stack%20AI%20Developer%20%C2%B7%20AI%20Agent%20Systems&descSize=18&descAlignY=85&descAlign=50" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=63B3FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+production-grade+AI+applications...;From+data+infrastructure+to+agent+systems...;Final+year+CS+student+%7C+Open+to+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=f97316&center=true&vCenter=true&multiline=false&width=600&lines=Building+production-grade+AI+applications...;From+data+infrastructure+to+agent+systems...;Final+year+CS+student+%7C+Open+to+work" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <a href="mailto:slntmtrx@gmail.com">
-  <img src="https://img.shields.io/badge/-Open%20to%20Work-4ade80?style=for-the-badge&logo=checkmarx&logoColor=0d1117&labelColor=4ade80" />
+  <img src="https://img.shields.io/badge/-Open%20to%20Work-f97316?style=for-the-badge&logo=checkmarx&logoColor=0d1117&labelColor=f97316" />
 </a>
 &nbsp;
 <a href="https://datrix-test.vercel.app">
-  <img src="https://img.shields.io/badge/-Live%20Project%3A%20Datrix-63b3ff?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=63b3ff" />
+  <img src="https://img.shields.io/badge/-Live%20Project%3A%20Datrix-f97316?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=f97316" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=s3ak6i-dev&style=for-the-badge&color=1a2744&label=PROFILE+VIEWS&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=s3ak6i-dev&style=for-the-badge&color=1a1000&label=PROFILE+VIEWS&labelColor=0d1117" />
 
 </div>
 
@@ -55,7 +55,7 @@ The intelligence layer beneath every AI system. Scans, cleans, enriches, and con
 <td width="50%" valign="top">
 
 <a href="https://github.com/s3ak6i-dev/Datrix">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=s3ak6i-dev&repo=Datrix&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=63b3ff&icon_color=63b3ff&text_color=94a3b8" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=s3ak6i-dev&repo=Datrix&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=94a3b8" />
 </a>
 
 </td>
@@ -72,8 +72,8 @@ The intelligence layer beneath every AI system. Scans, cleans, enriches, and con
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=63b3ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=63b3ff)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=f97316)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=f97316)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=facc15)
 
 </td>
@@ -81,8 +81,8 @@ The intelligence layer beneath every AI system. Scans, cleans, enriches, and con
 
 **Frameworks**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=4ade80)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=63b3ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=f97316)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=f97316)
 ![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
 
 </td>
@@ -90,16 +90,16 @@ The intelligence layer beneath every AI system. Scans, cleans, enriches, and con
 
 **Data & AI**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=63b3ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=f97316)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=f97316)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=63b3ff)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=f97316)
 
 </td>
 <td valign="top" width="25%">
 
 **Infrastructure**
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=63b3ff)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=f97316)
 ![Railway](https://img.shields.io/badge/Railway-0d1117?style=for-the-badge&logo=railway&logoColor=ffffff)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=f97316)
 
@@ -113,13 +113,13 @@ The intelligence layer beneath every AI system. Scans, cleans, enriches, and con
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=s3ak6i-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=63b3ff&icon_color=63b3ff&text_color=94a3b8&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=s3ak6i-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=94a3b8&count_private=true&include_all_commits=true" />
 &nbsp;
-<img height="165" src="https://streak-stats.demolab.com?user=s3ak6i-dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a2744&ring=63b3ff&fire=4ade80&currStreakNum=63b3ff&sideNums=94a3b8&currStreakLabel=63b3ff&sideLabels=94a3b8&dates=3d4d6a" />
+<img height="165" src="https://streak-stats.demolab.com?user=s3ak6i-dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1000&ring=f97316&fire=facc15&currStreakNum=f97316&sideNums=94a3b8&currStreakLabel=f97316&sideLabels=94a3b8&dates=3d4d6a" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=s3ak6i-dev&bg_color=0d1117&color=63b3ff&line=63b3ff&point=4ade80&area=true&area_color=1a2744&hide_border=true&radius=6" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=s3ak6i-dev&bg_color=0d1117&color=f97316&line=f97316&point=facc15&area=true&area_color=1a1000&hide_border=true&radius=6" />
 
 <br/><br/>
 
@@ -139,4 +139,4 @@ I'm available for full-time roles and freelance projects — AI agent systems, d
 
 **Reach me:** [slntmtrx@gmail.com](mailto:slntmtrx@gmail.com) · [GitHub](https://github.com/s3ak6i-dev)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:63b3ff,50:1a2744,100:0d1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:1a1000,100:0d1117&height=100&section=footer" />
