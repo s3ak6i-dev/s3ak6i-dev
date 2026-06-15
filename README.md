@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1000,100:f97316&height=200&section=header&text=Surya&fontSize=70&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Full-Stack%20AI%20Developer%20%C2%B7%20AI%20Agent%20Systems&descSize=18&descAlignY=85&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1000,100:f97316&height=200&section=header&text=Surya&fontSize=70&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Full-Stack%20AI%20Developer%20%C2%B7%20AI%20Agent%20Systems&descSize=18&descAlignY=85&descAlign=50&fontFamily=Space+Grotesk" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=f97316&center=true&vCenter=true&multiline=false&width=600&lines=Building+production-grade+AI+applications...;From+data+infrastructure+to+agent+systems...;Final+year+CS+student+%7C+Open+to+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=24&duration=3000&pause=800&color=f97316&center=true&vCenter=true&multiline=false&width=600&lines=Building+production-grade+AI+applications...;From+data+infrastructure+to+agent+systems...;Final+year+CS+student+%7C+Open+to+work" alt="Typing SVG" />
 </a>
 
 <br/><br/>
