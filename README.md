@@ -194,6 +194,6 @@ The credit rating agency for the agentic economy. MCP tells you how agents conne
 
 I'm available for full-time roles and freelance projects — AI agent systems, data tooling, full-stack AI applications.
 
-**Reach me:** [slntmtrx@gmail.com](mailto:slntmtrx@gmail.com) · [GitHub](https://github.com/s3ak6i-dev)
+**Reach me:** [s3a.k6i@gmail.com](mailto:s3a.k6i@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:1a1000,100:0d1117&height=100&section=footer" />
