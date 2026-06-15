@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&weight=400&size=64&duration=4000&pause=999999&color=f97316&center=true&vCenter=true&repeat=false&width=600&height=120&lines=Surya" alt="Surya" />
@@ -45,7 +44,7 @@ Currently deep in **AI agent systems** and **data infrastructure**. Open to full
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=600&height=36&lines=Datrix+%E2%80%94+AI+Data+Infrastructure" alt="Datrix — AI Data Infrastructure" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=600&height=48&lines=Datrix+%E2%80%94+AI+Data+Infrastructure" alt="Datrix — AI Data Infrastructure" />
 
 The intelligence layer beneath every AI system. Scans, cleans, enriches, and continuously improves the data that drives ML models.
 
@@ -61,7 +60,7 @@ The intelligence layer beneath every AI system. Scans, cleans, enriches, and con
 </td>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=600&height=36&lines=Cortex+%E2%80%94+Multi-Agent+Orchestration" alt="Cortex — Multi-Agent Orchestration" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=600&height=48&lines=Cortex+%E2%80%94+Multi-Agent+Orchestration" alt="Cortex — Multi-Agent Orchestration" />
 
 Visual canvas for orchestrating AI agents around a shared memory pool. Memory-first architecture — agents are workers, memory is the brain.
 
@@ -79,7 +78,7 @@ Visual canvas for orchestrating AI agents around a shared memory pool. Memory-fi
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=600&height=36&lines=GlassBox-fin+%E2%80%94+Financial+AI+Compliance" alt="GlassBox-fin — Financial AI Compliance" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=600&height=48&lines=GlassBox-fin+%E2%80%94+Financial+AI+Compliance" alt="GlassBox-fin — Financial AI Compliance" />
 
 Real-time compliance guardrails, audit trails, and decision lineage for financial LLM agents. Wraps any agent framework automatically.
 
@@ -95,7 +94,7 @@ Real-time compliance guardrails, audit trails, and decision lineage for financia
 </td>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=600&height=36&lines=Grain+%E2%80%94+Product+Feedback+Intelligence" alt="Grain — Product Feedback Intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=600&height=48&lines=Grain+%E2%80%94+Product+Feedback+Intelligence" alt="Grain — Product Feedback Intelligence" />
 
 Multi-tenant SaaS for product managers to organize and analyze user feedback. Surfaces underlying problems, not just feature requests.
 
@@ -113,7 +112,7 @@ Multi-tenant SaaS for product managers to organize and analyze user feedback. Su
 <tr>
 <td colspan="2" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=800&height=36&lines=AgentRank+%E2%80%94+Trust+Layer+for+AI+Agents" alt="AgentRank — Trust Layer for AI Agents" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=800&height=48&lines=AgentRank+%E2%80%94+Trust+Layer+for+AI+Agents" alt="AgentRank — Trust Layer for AI Agents" />
 
 The credit rating agency for the agentic economy. MCP tells you how agents connect — AgentRank tells you whether to trust them.
 
