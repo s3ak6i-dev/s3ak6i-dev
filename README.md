@@ -113,10 +113,6 @@ The intelligence layer beneath every AI system. Scans, cleans, enriches, and con
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=s3ak6i-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-<br/><br/>
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=s3ak6i-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=63b3ff&icon_color=63b3ff&text_color=94a3b8&count_private=true&include_all_commits=true" />
 &nbsp;
 <img height="165" src="https://streak-stats.demolab.com?user=s3ak6i-dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a2744&ring=63b3ff&fire=4ade80&currStreakNum=63b3ff&sideNums=94a3b8&currStreakLabel=63b3ff&sideLabels=94a3b8&dates=3d4d6a" />
