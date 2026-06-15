@@ -44,7 +44,7 @@ Currently deep in **AI agent systems** and **data infrastructure**. Open to full
 <tr>
 <td width="50%" valign="top">
 
-### [Datrix](https://datrix-test.vercel.app) — AI Data Infrastructure
+### [<font color="#f97316">Datrix</font>](https://datrix-test.vercel.app) — AI Data Infrastructure
 
 The intelligence layer beneath every AI system. Scans, cleans, enriches, and continuously improves the data that drives ML models.
 
@@ -60,7 +60,7 @@ The intelligence layer beneath every AI system. Scans, cleans, enriches, and con
 </td>
 <td width="50%" valign="top">
 
-### [Cortex](https://github.com/s3ak6i-dev/Cortex) — Multi-Agent Orchestration
+### [<font color="#f97316">Cortex</font>](https://github.com/s3ak6i-dev/Cortex) — Multi-Agent Orchestration
 
 Visual canvas for orchestrating AI agents around a shared memory pool. Memory-first architecture — agents are workers, memory is the brain.
 
@@ -78,7 +78,7 @@ Visual canvas for orchestrating AI agents around a shared memory pool. Memory-fi
 <tr>
 <td width="50%" valign="top">
 
-### [GlassBox-fin](https://github.com/s3ak6i-dev/GlassBox-fin) — Financial AI Compliance
+### [<font color="#f97316">GlassBox-fin</font>](https://github.com/s3ak6i-dev/GlassBox-fin) — Financial AI Compliance
 
 Real-time compliance guardrails, audit trails, and decision lineage for financial LLM agents. Wraps any agent framework automatically.
 
@@ -94,7 +94,7 @@ Real-time compliance guardrails, audit trails, and decision lineage for financia
 </td>
 <td width="50%" valign="top">
 
-### [Grain](https://github.com/s3ak6i-dev/Grain) — Product Feedback Intelligence
+### [<font color="#f97316">Grain</font>](https://github.com/s3ak6i-dev/Grain) — Product Feedback Intelligence
 
 Multi-tenant SaaS for product managers to organize and analyze user feedback. Surfaces underlying problems, not just feature requests.
 
@@ -110,9 +110,9 @@ Multi-tenant SaaS for product managers to organize and analyze user feedback. Su
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### [AgentRank](https://github.com/s3ak6i-dev/AgentRank) — Trust Layer for AI Agents
+### [<font color="#f97316">AgentRank</font>](https://github.com/s3ak6i-dev/AgentRank) — Trust Layer for AI Agents
 
 The credit rating agency for the agentic economy. MCP tells you how agents connect — AgentRank tells you whether to trust them.
 
@@ -125,8 +125,6 @@ The credit rating agency for the agentic economy. MCP tells you how agents conne
 
 [Repo](https://github.com/s3ak6i-dev/AgentRank)
 
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
