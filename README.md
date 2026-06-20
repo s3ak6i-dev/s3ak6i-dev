@@ -137,6 +137,19 @@ Fixed a silent bug where agents using planning/reasoning would never proceed to 
 
 </td>
 </tr>
+<tr>
+<td valign="top">
+
+<a href="https://github.com/letta-ai/letta"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=700&height=40&lines=Letta+%E2%80%94+Fix+NameError+in+tool+sandbox+execution" alt="Letta — Fix NameError in tool sandbox execution" /></a>
+
+Fixed a silent bug where tools with no `title` in their `args_json_schema` would crash at sandbox execution time. Two code paths generated the Pydantic class with different default names (`DynamicModel` vs `Model`), producing a `NameError`. Fix injects a consistent `ToolArgs` title at validation time in `ToolCreate`/`ToolUpdate`, with the helpers fallback aligned to match.
+
+**[letta-ai/letta](https://github.com/letta-ai/letta)** · `fix` · issue #3319
+
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=f0883e) ![Letta](https://img.shields.io/badge/Letta-161b22?style=flat-square&logoColor=f0883e) ![Pydantic](https://img.shields.io/badge/Pydantic-161b22?style=flat-square&logo=pydantic&logoColor=f0883e)
+
+</td>
+</tr>
 </table>
 
 ---
