@@ -121,6 +121,26 @@ The credit rating agency for the agentic economy. MCP tells you how agents conne
 
 ---
 
+## Open Source
+
+<table>
+<tr>
+<td valign="top">
+
+<a href="https://github.com/crewAIInc/crewAI/pull/6261"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=1&pause=999999&color=f0883e&vCenter=true&repeat=false&width=700&height=40&lines=crewAI+%E2%80%94+Fix+agent+reasoning+READY+detection" alt="crewAI — Fix agent reasoning READY detection" /></a>
+
+Fixed a silent bug where agents using planning/reasoning would never proceed to task execution. Prompt templates instruct models to output `READY` or `NOT READY`, but the detection code only matched a legacy long-form phrase — causing a permanent mismatch. Added `_is_ready()` helper that handles both forms and added 12 regression tests.
+
+**[PR #6261](https://github.com/crewAIInc/crewAI/pull/6261)** · `fix` · `crewAIInc/crewAI`
+
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=f0883e) ![crewAI](https://img.shields.io/badge/crewAI-161b22?style=flat-square&logoColor=f0883e) ![AI%20Agents](https://img.shields.io/badge/AI%20Agents-161b22?style=flat-square&logoColor=f0883e)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Tech Stack
 
 <table>
